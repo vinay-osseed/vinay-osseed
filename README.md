@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VinuGawade
+- 👋 Hi, I’m @VinayGawade
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CMS
 - 💞️ I’m looking to collaborate on Web Development Field
